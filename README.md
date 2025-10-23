@@ -30,4 +30,4 @@ En otras palabras, es un problema de clasificación multiclase con variables gen
 
 [Reporte en formato html](./A3.1%20611471.html) 
 
-<a href="A3.1%20khan.csv" download>Base de datos</a>  
+<a href="A3.1%20Khan.csv" download>Base de datos</a>  
